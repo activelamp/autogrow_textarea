@@ -2,5 +2,5 @@ name: Autogrow Textarea
 type: module
 description: Adds the jQuery Autogrow plugin to the page.
 package: User Interface
-core: 8.x
-core_version_requirement: ^8 || ^9
+core: 10.x
+core_version_requirement: ^8 || ^9 || ^10
